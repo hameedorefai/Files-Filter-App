@@ -1,4 +1,19 @@
 
+# Files Filter App - Automated Course File Organizer
+
+### LinkedIn Description
+> Developed a desktop application in C# using Windows Forms (WinForms) that automates the organization and filtering of files based on course-related keywords.
+>
+> The application follows a 3-tier architecture (Presentation, Business Logic, Data Access) and provides:
+> - **Course Management:** Add, update, and delete courses with full CRUD support via SQL Server and ADO.NET.
+> - **Keyword Management:** Generate and manage keywords per course, with intelligent support for Arabic script variations — including Alif variants (أ, إ, آ, ا), Hamza handling, and definite article transformations.
+> - **Automated File Filtering:** Scan a source directory and automatically copy files matching course keywords into dedicated course subdirectories.
+> - **Operation Logging:** Track all file operations with detailed success/failure logs.
+>
+> 🛠 Technologies: C# · Windows Forms (WinForms) · SQL Server · ADO.NET · 3-Tier Architecture
+
+---
+
 ### Overview
 This desktop application, written in C# using WinForms, is designed for managing courses, keywords, and file filtering.
  It operates using a 3-tier architecture, which includes a presentation layer, business logic layer, and data access layer.
